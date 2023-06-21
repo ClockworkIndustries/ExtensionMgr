@@ -1,4 +1,7 @@
 #!/bin/bash
+# Made by kxtz#8161
+# Official product of Clockwork Industries
+# ExtensionMgr Version 1
 
 source <(tail -3 /etc/os-release)
 
